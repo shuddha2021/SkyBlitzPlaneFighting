@@ -15,7 +15,8 @@ A vibrant and engaging 2D plane fighting game built with Pygame. Fly your plane 
 
 ## Screenshot
 
-<img width="1106" alt="Screenshot 2024-07-10 at 12 12 52 PM" src="https://github.com/shuddha2021/SkyBlitzPlaneFighting/assets/81951239/04ad85a1-67cb-4c01-88b1-1a8c4c6658e1">
+<img width="800" alt="Screenshot 2024-07-10 at 12 15 10 PM" src="https://github.com/shuddha2021/SkyBlitzPlaneFighting/assets/81951239/3ac8f68b-88a6-4ba0-b059-bc1fb09d9ece">
+
 
 ## Getting Started
 ### Prerequisites
